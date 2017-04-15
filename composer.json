@@ -1,0 +1,17 @@
+{
+    "name": "hultberg/dotno",
+    "type": "october-theme",
+    "description": "Hultberg.no Theme",
+    "keywords": ["october", "cms", "theme"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edvin Hultberg",
+            "email": "hultberg@mittnett.net",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    }
+}

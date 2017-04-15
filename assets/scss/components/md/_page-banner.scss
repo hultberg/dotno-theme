@@ -1,0 +1,17 @@
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+  .page-banner {
+    .padded {
+      padding: 3rem 3rem;
+    }
+
+    .title {
+      font-size: 3.5rem;
+      margin-bottom: 0;
+
+      &-padded {
+        margin-bottom: 2rem;
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+// Styling for dotno
+
+@import 'variables';
+@import '../../node_modules/bootstrap/scss/bootstrap';
+
+@import 'mixins/blue-gradient';
+@import 'components/global';
+@import 'components/banner-page';
+@import 'components/md/banner-page';
+@import 'components/navbar';
+@import 'components/page-banner';
+@import 'components/md/page-banner';
+@import 'components/job-list';
+@import 'components/utilities';
+@import 'components/frontpage-nav';
+@import 'components/md/frontpage-nav';
+@import 'components/frontpage-banner';
+@import 'components/md/frontpage-banner';

@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6"
+  },
+  "devDependencies": {
+    "node-sass": "^4.5.2"
+  },
+  "scripts": {
+    "build": "node-sass --output-style=compressed assets/scss/style.scss assets/css/style.css"
+  }
+}

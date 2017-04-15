@@ -1,0 +1,13 @@
+.page-banner {
+  .padded {
+    padding: 1rem;
+  }
+
+  .title {
+    margin-bottom: 0;
+
+    &-padded {
+      margin-bottom: 1rem;
+    }
+  }
+}

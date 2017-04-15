@@ -1,0 +1,11 @@
+.frontpage-banner {
+  color: #fcfcfc;
+
+  .padded {
+    padding: 3rem;
+  }
+
+  .bg {
+    @include blueGradient();
+  }
+}

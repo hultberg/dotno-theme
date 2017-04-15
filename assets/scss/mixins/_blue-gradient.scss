@@ -1,0 +1,8 @@
+@mixin blueGradient() {
+  background: #00a6f9; /* Old browsers */
+  background: -moz-radial-gradient(center, ellipse cover,  #00a6f9 50%, #00c1fc 100%); /* FF3.6-15 */
+  background: -webkit-radial-gradient(center, ellipse cover,  #00a6f9 50%,#00c1fc 100%); /* Chrome10-25,Safari5.1-6 */
+  background: radial-gradient(ellipse at center,  #00a6f9 50%,#00c1fc 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00a6f9', endColorstr='#00c1fc',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  box-shadow: inset 0px 0px 110px -25px #404040;
+}

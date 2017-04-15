@@ -1,0 +1,14 @@
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+  .frontpage-nav {
+    .nav-item {
+      float: left;
+    }
+
+    .nav-item + .nav-item {
+      margin-top: 0;
+      margin-left: 1rem;
+    }
+  }
+
+}
